@@ -1,0 +1,6 @@
+named venv
+venv/
+
+models/recipe/combined_recipes.csv
+
+models/recipe/t5_recipe_trained_until_chunk_4/model.safetensors
